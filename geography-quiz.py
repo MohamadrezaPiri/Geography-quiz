@@ -44,15 +44,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
 want_to_play=input('Welcome dude. Do you want to play? ').lower()
 
 if want_to_play != 'yes':
